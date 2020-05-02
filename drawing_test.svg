@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="68.893969"
-     inkscape:cy="388.95166"
+     inkscape:cx="301.75111"
+     inkscape:cy="380.38023"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -104,9 +104,9 @@
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4153"
        width="234.28572"
-       height="40"
+       height="44.285721"
        x="385.42859"
-       y="-277.85712" />
+       y="-282.14282" />
     <rect
        y="-735.93365"
        x="-296.71423"
@@ -155,7 +155,19 @@
        id="rect4145"
        width="234.28572"
        height="40"
-       x="-1008.4667"
-       y="-358.74191" />
+       x="-1011.8347"
+       y="-361.39224" />
+    <circle
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle4148"
+       cx="54.285755"
+       cy="780.93359"
+       r="37.142857" />
+    <circle
+       r="37.142857"
+       cy="1009.505"
+       cx="41.428608"
+       id="circle4150"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54330707;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

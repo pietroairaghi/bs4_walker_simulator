@@ -3,3 +3,4 @@ from .Blueprint import *
 from .figures import *
 from .intersections import *
 from .ShopObjects import *
+from .Walker import *
